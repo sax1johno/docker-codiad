@@ -24,7 +24,7 @@ fi
 	/config/www/plugins/Codiad-DragDrop-master/
 
 [[ ! -d "/config/www/plugins/Codiad-Terminal-master/.git" ]] && \
-	git clone https://github.com/Fluidbyte/Codiad-Terminal \
+	git clone https://github.com/sax1johno/Codiad-Terminal \
 	/config/www/plugins/Codiad-Terminal-master/
 
 # copy config
